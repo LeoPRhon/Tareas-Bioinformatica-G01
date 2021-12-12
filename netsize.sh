@@ -4,7 +4,7 @@
 #En primer lugar, se selecciona la ubicacion de la carpeta "Saavedra2013" en el dispositivo
 #En segundo lugar, en el interior de la carpeta se crea un documento en txt.
 cd Saavedra2013
-# Tercero, Finalmente aplicamos el codigo, y en lo personal agrege una leyenda para diferencias el numero de columnas de las filas 
+# En tercer lugar, Finalmente aplicamos el codigo, y en lo personal agrege una leyenda para diferencias el numero de columnas de las filas 
 echo "El ńumero de columnas es:" ;
 head -n1 n1.txt | grep -o " " | wc -l ;
 echo "El numero de filas es:" ;

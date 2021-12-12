@@ -1,0 +1,7 @@
+Leo@DESKTOP-FTI0JOR MINGW64 /d/Documentos/GitHub/Tareas-Bioinformatica-G01 (main)
+$ ./netsize.sh
+El ńumero de columnas es:
+80
+El numero de filas es:
+97 n1.txt
+Fin de la ejecucion
