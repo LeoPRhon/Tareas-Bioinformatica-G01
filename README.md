@@ -17,7 +17,7 @@ Escriba un guión que imprima el número de filas y columnas para cada archivo.
 
 La ejecución se realiza en el script <netsize_all.sh>
      
-# EJERCICIO PARTE 3
+# EJERCICIO PARTE 3:
 ¿Qué archivo tiene el mayor número de filas? ¿Cuál tiene el mayor número de número de columnas?
 
 La ejecución se realiza en el script <netsize_3.sh>
