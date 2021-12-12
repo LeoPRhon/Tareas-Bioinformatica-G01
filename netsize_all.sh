@@ -1,8 +1,12 @@
 # Ejercicio 2
+
 # Se selecciona nuevamente la direccion del archivo Saavedra2013
+
 cd Saavedra2013
+
 # Se aplica leyendas para diferenciar columnas de filas y cat para mejor visualización
 # Y finalmente, se corre el código:
+
 for f in $(ls *.txt);
 do
     echo "El numero de columas es:" ;
@@ -11,4 +15,5 @@ do
     cat $f | wc -l
 done
 echo "Fin de la ejecucion"
+
 # Se obtienen todos los valores de fila y columna para los 59 archivos
