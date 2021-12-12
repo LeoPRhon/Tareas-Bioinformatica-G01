@@ -2,9 +2,11 @@
 # Se abre la direccion del archivo Saavedra2013
 cd Saavedra2013
 # Se busca la columna con mayor cantidad y la fila con mayor cantidad
+
 # Se asigna variables
 var=0
 var1=0
+
 # Se incluye leyendas de hecho para poder diferenciar de mejor manera, y for para restricciones
 for f in $(ls *.txt);
 do
