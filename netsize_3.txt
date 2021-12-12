@@ -1,1 +1,247 @@
 Leo@DESKTOP-FTI0JOR MINGW64 /d/Documentos/GitHub/Tareas-Bioinformatica-G01 (main)
+$ ./netsize_3.sh
+El numero de columna es:
+80
+El numero de filas es:
+97
+El numero de columna es:
+20
+El numero de filas es:
+14
+El numero de columna es:
+91
+El numero de filas es:
+270
+El numero de columna es:
+72
+El numero de filas es:
+7
+El numero de columna es:
+17
+El numero de filas es:
+61
+El numero de columna es:
+15
+El numero de filas es:
+35
+El numero de columna es:
+11
+El numero de filas es:
+38
+El numero de columna es:
+24
+El numero de filas es:
+118
+El numero de columna es:
+31
+El numero de filas es:
+76
+El numero de columna es:
+14
+El numero de filas es:
+13
+El numero de columna es:
+16
+El numero de filas es:
+10
+El numero de columna es:
+41
+El numero de filas es:
+62
+El numero de columna es:
+7
+El numero de filas es:
+18
+El numero de columna es:
+45
+El numero de filas es:
+19
+El numero de columna es:
+36
+El numero de filas es:
+19
+El numero de columna es:
+26
+El numero de filas es:
+179
+El numero de columna es:
+28
+El numero de filas es:
+80
+El numero de columna es:
+16
+El numero de filas es:
+17
+El numero de columna es:
+40
+El numero de filas es:
+82
+El numero de columna es:
+5
+El numero de filas es:
+27
+El numero de columna es:
+19
+El numero de filas es:
+90
+El numero de columna es:
+25
+El numero de filas es:
+61
+El numero de columna es:
+36
+El numero de filas es:
+25
+El numero de columna es:
+19
+El numero de filas es:
+8
+El numero de columna es:
+25
+El numero de filas es:
+28
+El numero de columna es:
+21
+El numero de filas es:
+45
+El numero de columna es:
+20
+El numero de filas es:
+70
+El numero de columna es:
+25
+El numero de filas es:
+79
+El numero de columna es:
+8
+El numero de filas es:
+14
+El numero de columna es:
+169
+El numero de filas es:
+40
+El numero de columna es:
+13
+El numero de filas es:
+44
+El numero de columna es:
+99
+El numero de filas es:
+51
+El numero de columna es:
+25
+El numero de filas es:
+33
+El numero de columna es:
+11
+El numero de filas es:
+101
+El numero de columna es:
+18
+El numero de filas es:
+28
+El numero de columna es:
+10
+El numero de filas es:
+12
+El numero de columna es:
+8
+El numero de filas es:
+42
+El numero de columna es:
+29
+El numero de filas es:
+55
+El numero de columna es:
+9
+El numero de filas es:
+56
+El numero de columna es:
+61
+El numero de filas es:
+36
+El numero de columna es:
+17
+El numero de filas es:
+58
+El numero de columna es:
+41
+El numero de filas es:
+139
+El numero de columna es:
+49
+El numero de filas es:
+118
+El numero de columna es:
+23
+El numero de filas es:
+47
+El numero de columna es:
+7
+El numero de filas es:
+21
+El numero de columna es:
+46
+El numero de filas es:
+45
+El numero de columna es:
+15
+El numero de filas es:
+8
+El numero de columna es:
+7
+El numero de filas es:
+33
+El numero de columna es:
+13
+El numero de filas es:
+34
+El numero de columna es:
+25
+El numero de filas es:
+126
+El numero de columna es:
+50
+El numero de filas es:
+14
+El numero de columna es:
+207
+El numero de filas es:
+110
+El numero de columna es:
+11
+El numero de filas es:
+14
+El numero de columna es:
+90
+El numero de filas es:
+678
+El numero de columna es:
+130
+El numero de filas es:
+663
+El numero de columna es:
+31
+El numero de filas es:
+9
+El numero de columna es:
+25
+El numero de filas es:
+16
+El numero de columna es:
+33
+El numero de filas es:
+19
+El numero de columna es:
+22
+El numero de filas es:
+12
+Fin de la ejecucion
+________________________________________________________
+El documento con la mayor cantidad de filas es:n58.txt
+con un total de:678
+________________________________________________________
+El documento con mayor cantidad de columnas es:n56.txt
+con un total de:207
+________________________________________________________
+
