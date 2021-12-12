@@ -1,6 +1,6 @@
 # Ejercicio 2
-# Abrimos nuevamente la direccion del archivo Saavendra2013
-cd Saavendra2013
+# Abrimos nuevamente la direccion del archivo Saavedra2013
+cd Saavedra2013
 # En este caso aplicamos leyendas para diferenciar columnas de filas y cat para mejor visualizacion
 # Corremos el código:
 for f in $(ls *.txt);

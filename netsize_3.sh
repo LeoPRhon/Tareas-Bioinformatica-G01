@@ -1,5 +1,5 @@
 # Ejercicio 3 
-# Abrimos nuevamente la direccion del archivo Saavendra2013
+# Abrimos la direccion del archivo Saavedra2013
 cd Saavedra2013
 # la columna con mayor numero y la fila con mayor numero
 # Asignamos variables
