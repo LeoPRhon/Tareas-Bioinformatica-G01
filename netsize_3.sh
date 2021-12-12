@@ -1,6 +1,6 @@
 # Ejercicio 3 
 
-# Se abre la direccion del archivo Saavedra2013
+# Se abre la dirección del archivo Saavedra2013
 cd Saavedra2013
 
 # Se busca la columna con mayor cantidad y la fila con mayor cantidad
@@ -9,7 +9,7 @@ cd Saavedra2013
 var=0
 var1=0
 
-# Se incluye leyendas de hecho para poder diferenciar de mejor manera, y for para restricciones
+# Se incluye leyendas de "hecho" para poder diferenciar de mejor manera, y for para restricciones
 for f in $(ls *.txt);
 do
     echo "El numero de columna es:" ;

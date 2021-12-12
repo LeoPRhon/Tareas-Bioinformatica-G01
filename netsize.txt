@@ -102,3 +102,4 @@ El ńumero de columnas es:
 El numero de filas es:
 97 n1.txt
 Fin de la ejecucion
+Ejercicio terminado

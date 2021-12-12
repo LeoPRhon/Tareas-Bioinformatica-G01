@@ -4,7 +4,7 @@
 
 cd Saavedra2013
 
-# Se aplica leyendas para diferenciar columnas de filas y cat para mejor visualización
+# Se aplica leyendas para diferenciar columnas de filas y cat para mejorar visualización
 # Y finalmente, se corre el código:
 
 for f in $(ls *.txt);

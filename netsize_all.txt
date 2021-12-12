@@ -237,3 +237,5 @@ El numero de columas es:
 El numero de filas es:
 12
 Fin de la ejecucion
+
+Ejercicio terminado
