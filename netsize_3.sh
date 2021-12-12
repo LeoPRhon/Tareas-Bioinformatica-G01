@@ -1,6 +1,8 @@
 # Ejercicio 3 
+
 # Se abre la direccion del archivo Saavedra2013
 cd Saavedra2013
+
 # Se busca la columna con mayor cantidad y la fila con mayor cantidad
 
 # Se asigna variables
