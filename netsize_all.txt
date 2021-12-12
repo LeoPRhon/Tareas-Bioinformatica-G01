@@ -1,0 +1,239 @@
+Leo@DESKTOP-FTI0JOR MINGW64 /d/Documentos/GitHub/Tareas-Bioinformatica-G01 (main)
+$ ./netsize_all.sh
+El numero de columas es:
+80
+El numero de filas es:
+97
+El numero de columas es:
+20
+El numero de filas es:
+14
+El numero de columas es:
+91
+El numero de filas es:
+270
+El numero de columas es:
+72
+El numero de filas es:
+7
+El numero de columas es:
+17
+El numero de filas es:
+61
+El numero de columas es:
+15
+El numero de filas es:
+35
+El numero de columas es:
+11
+El numero de filas es:
+38
+El numero de columas es:
+24
+El numero de filas es:
+118
+El numero de columas es:
+31
+El numero de filas es:
+76
+El numero de columas es:
+14
+El numero de filas es:
+13
+El numero de columas es:
+16
+El numero de filas es:
+10
+El numero de columas es:
+41
+El numero de filas es:
+62
+El numero de columas es:
+7
+El numero de filas es:
+18
+El numero de columas es:
+45
+El numero de filas es:
+19
+El numero de columas es:
+36
+El numero de filas es:
+19
+El numero de columas es:
+26
+El numero de filas es:
+179
+El numero de columas es:
+28
+El numero de filas es:
+80
+El numero de columas es:
+16
+El numero de filas es:
+17
+El numero de columas es:
+40
+El numero de filas es:
+82
+El numero de columas es:
+5
+El numero de filas es:
+27
+El numero de columas es:
+19
+El numero de filas es:
+90
+El numero de columas es:
+25
+El numero de filas es:
+61
+El numero de columas es:
+36
+El numero de filas es:
+25
+El numero de columas es:
+19
+El numero de filas es:
+8
+El numero de columas es:
+25
+El numero de filas es:
+28
+El numero de columas es:
+21
+El numero de filas es:
+45
+El numero de columas es:
+20
+El numero de filas es:
+70
+El numero de columas es:
+25
+El numero de filas es:
+79
+El numero de columas es:
+8
+El numero de filas es:
+14
+El numero de columas es:
+169
+El numero de filas es:
+40
+El numero de columas es:
+13
+El numero de filas es:
+44
+El numero de columas es:
+99
+El numero de filas es:
+51
+El numero de columas es:
+25
+El numero de filas es:
+33
+El numero de columas es:
+11
+El numero de filas es:
+101
+El numero de columas es:
+18
+El numero de filas es:
+28
+El numero de columas es:
+10
+El numero de filas es:
+12
+El numero de columas es:
+8
+El numero de filas es:
+42
+El numero de columas es:
+29
+El numero de filas es:
+55
+El numero de columas es:
+9
+El numero de filas es:
+56
+El numero de columas es:
+61
+El numero de filas es:
+36
+El numero de columas es:
+17
+El numero de filas es:
+58
+El numero de columas es:
+41
+El numero de filas es:
+139
+El numero de columas es:
+49
+El numero de filas es:
+118
+El numero de columas es:
+23
+El numero de filas es:
+47
+El numero de columas es:
+7
+El numero de filas es:
+21
+El numero de columas es:
+46
+El numero de filas es:
+45
+El numero de columas es:
+15
+El numero de filas es:
+8
+El numero de columas es:
+7
+El numero de filas es:
+33
+El numero de columas es:
+13
+El numero de filas es:
+34
+El numero de columas es:
+25
+El numero de filas es:
+126
+El numero de columas es:
+50
+El numero de filas es:
+14
+El numero de columas es:
+207
+El numero de filas es:
+110
+El numero de columas es:
+11
+El numero de filas es:
+14
+El numero de columas es:
+90
+El numero de filas es:
+678
+El numero de columas es:
+130
+El numero de filas es:
+663
+El numero de columas es:
+31
+El numero de filas es:
+9
+El numero de columas es:
+25
+El numero de filas es:
+16
+El numero de columas es:
+33
+El numero de filas es:
+19
+El numero de columas es:
+22
+El numero de filas es:
+12
+Fin de la ejecucion

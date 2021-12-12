@@ -1,11 +1,11 @@
 # Ejercicio 3 
-# Abrimos la direccion del archivo Saavedra2013
+# Se abre la direccion del archivo Saavedra2013
 cd Saavedra2013
-# la columna con mayor numero y la fila con mayor numero
-# Asignamos variables
+# Se busca la columna con mayor cantidad y la fila con mayor cantidad
+# Se asigna variables
 var=0
 var1=0
-# Agregamos eyendas de hecho para poder diferenciarlas mejor, y for para restriccion
+# Se incluye leyendas de hecho para poder diferenciar de mejor manera, y for para restricciones
 for f in $(ls *.txt);
 do
     echo "El numero de columna es:" ;
@@ -32,11 +32,12 @@ do
     
 done
 echo "Fin de la ejecucion";
-#Resultados: aplicamos leyenda de hecho y la variable $fila 
-echo "------------------------------------------------------";
-echo El documento con mayor numero de filas es:$fila ;
+#Resultados: 
+echo "________________________________________________________";
+echo El documento con la mayor cantidad de filas es:$fila ;
 echo con un total de:$var;
+echo "________________________________________________________";
 
-echo El documento con mayor numero de columnas es:$columna ;
+echo El documento con mayor cantidad de columnas es:$columna ;
 echo con un total de:$var1;
-echo "------------------------------------------------------";
+echo "________________________________________________________";
