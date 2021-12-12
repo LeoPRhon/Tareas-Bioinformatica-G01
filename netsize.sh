@@ -1,6 +1,8 @@
 # Tarea nº1
 #Leonardo Francisco Proano Rhon
+
 #Ejercicio 1 
+
 #En primer lugar, se selecciona la ubicacion de la carpeta "Saavedra2013" en el dispositivo
 cd Saavedra2013
 #En segundo lugar, en el interior de la carpeta se crea un documento en txt.
